@@ -1,0 +1,10 @@
+0.1 	!CFL
+1.0 	!InitialeField T
+130	!Re
+0.9	!Pr
+25000	!Number of itterations
+1.0	!T cold
+2.0	!T hot
+1e-6	!eps
+1	!scheme Central - 1, SOU - 2
+LS	!Method for gradT
